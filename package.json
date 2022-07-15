@@ -1,0 +1,23 @@
+{
+  "name": "blogger-js",
+  "version": "1.0.0",
+  "description": "Javascript client library for blogger CMS",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tajultonim/blogger-js.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "author": "tajultonim",
+  "bugs": {
+    "url": "https://github.com/tajultonim/blogger-js/issues"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2"
+  },
+  "keywords": ["blogger", "sdk", "js", "blogger-js", "javascript", "post", "page", "api"],
+  "homepage": "https://github.com/tajultonim/blogger-js#readme"
+}
